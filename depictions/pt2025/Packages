@@ -1,0 +1,14 @@
+Package: pt2025.iosviet.co
+Name: [iOSViet.Co] Play Together Mod Menu
+Depends: mobilesubstrate
+Description: Play Together Mod Menu by iOSViet.Co!
+Maintainer: iOSViet.Co
+Author: iOSViet.Co
+Section: Tweaks
+Homepage: https://iosviet.co/
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 43188
+Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm (13).deb
+Size: 6555096
+
