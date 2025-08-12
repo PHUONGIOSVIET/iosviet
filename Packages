@@ -1,6 +1,6 @@
 Package: pt2025.iosviet.co
 Version: 1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: PHUONGIOSVIET
 Filename: deb/pt2025.iosviet.co_1.0_iphoneos-arm_2_.deb
 Size: 6664764
