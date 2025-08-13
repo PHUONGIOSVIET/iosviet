@@ -1,9 +1,9 @@
 Origin: PHUONGIOSVIET Repo
 Label: PHUONGIOSVIET Repo
-Suite: stable
+Icon: https://phuongiosviet.github.io/sileo-repo/logo.png
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm
 Components: main
 Description: Repo chính thức của PHUONGIOSVIET
-Icon: https://phuongiosviet.github.io/sileo-repo/logo.png
+Suite: stable
