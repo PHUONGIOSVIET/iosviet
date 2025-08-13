@@ -3,7 +3,7 @@ Label: PHUONGIOSVIET Repo
 Icon: https://phuongiosviet.github.io/sileo-repo/logo kho.png
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Repo chính thức của PHUONGIOSVIET
+Description: Repository PHUONGIOSVIET
 Suite: stable
