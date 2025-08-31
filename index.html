@@ -3,12 +3,55 @@
 <head>
   <meta charset="UTF-8">
   <title>PHUONGIOSVIET Repo</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:linear-gradient(135deg,#0f2027,#203a43,#2c5364); color:#fff; }
+    .wrap { max-width:900px; margin:auto; padding:30px; text-align:center; }
+    .logo { width:100px; border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,.6); }
+    h1 { margin:15px 0; font-size:32px; text-shadow:0 2px 6px rgba(0,0,0,.6); }
+    p { opacity:.9 }
+    .btn { display:inline-block; padding:12px 20px; margin:10px; border-radius:12px; text-decoration:none; font-weight:bold; color:#fff; box-shadow:0 4px 8px rgba(0,0,0,.4); transition:transform .2s; }
+    .btn:hover { transform:translateY(-3px); }
+    .sileo { background:#00c2ff; }
+    .cydia { background:#b28d5c; }
+    .donate { background:#FFD700; color:#000; }
+    .telegram { background:#0088cc; }
+    .qr img { width:160px; margin-top:15px; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,.6); }
+    .card { background:rgba(255,255,255,.1); border-radius:16px; padding:20px; margin-top:25px; box-shadow:0 8px 16px rgba(0,0,0,.4); backdrop-filter:blur(6px); }
+    ul.tweaks { list-style:none; padding:0; margin:0; }
+    ul.tweaks li { background:rgba(0,0,0,.3); margin:10px 0; padding:12px; border-radius:10px; font-size:18px; font-weight:bold; box-shadow:0 4px 10px rgba(0,0,0,.4); transition:transform .2s; }
+    ul.tweaks li:hover { transform:scale(1.03); }
+  </style>
 </head>
-<body style="text-align:center; font-family:Arial,sans-serif;">
-  <h1>📦 PHUONGIOSVIET Repo</h1>
-  <p>Repo chính thức chứa các tweak và tool của PHUONGIOSVIET.</p>
-  <p><a href="sileo://source/https://phuongiosviet.github.io/iosviet/">➕ Thêm vào Sileo</a></p>
-  <p><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://phuongiosviet.github.io/iosviet/">➕ Thêm vào Cydia</a></p>
-  <p><a href="https://t.me/PHUONGIOSVIET">📩 Telegram</a></p>
+<body>
+  <div class="wrap">
+    <img src="CydiaIcon.png" class="logo" alt="Repo Icon">
+    <h1>📦 PHUONGIOSVIET Repo</h1>
+    <p>Repo chính thức chứa các tweak và tool của PHUONGIOSVIET.</p>
+
+    <!-- Buttons -->
+    <a class="btn sileo" href="sileo://source/https://phuongiosviet.github.io/iosviet/">➕ Thêm vào Sileo</a>
+    <a class="btn cydia" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://phuongiosviet.github.io/iosviet/">➕ Thêm vào Cydia</a>
+    <a class="btn donate" href="#donate">💰 Donate</a>
+    <a class="btn telegram" href="https://t.me/PHUONGIOSVIET">📩 Telegram</a>
+
+    <!-- Donate QR -->
+    <div class="card" id="donate">
+      <h2>💰 Donate</h2>
+      <p>Ủng hộ qua QR bên dưới:</p>
+      <div class="qr"><img src="donate_qr.png" alt="Donate QR"></div>
+    </div>
+
+    <!-- Danh sách tweak -->
+    <div class="card">
+      <h2>📜 Danh sách Tweaks</h2>
+      <ul class="tweaks">
+  <li>A-Bypass</li>
+  <li>A-Bypass</li>
+  <li>FPS Color</li>
+  <li>[iOSViet.Co] Play Together Mod Menu</li>
+  <li>[iOSViet.Co] Play Together Mod Menu</li>
+</ul>
+    </div>
+  </div>
 </body>
 </html>
