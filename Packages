@@ -2,67 +2,122 @@ Package: com.rpgfarm.a-bypass
 Name: A-Bypass
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
 Architecture: iphoneos-arm
-Description: Super Jailbreak detection bypass!
-Maintainer: Baw Appie <pp121324@gmail.com>
-Author: Baw Appie <pp121324@gmail.com>
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
 Section: Tweaks
 Version: 1.5.4
 Installed-Size: 848
-Filename: debs/com.rpgfarm.a-bypass_1.5.4_iphoneos-arm.deb
-Size: 100688
+Filename: debs/com.rpgfarm.a-bypass_1.5.4_iphoneos-arm64_iphoneos-arm64.deb
+Size: 528
 
 Package: com.rpgfarm.a-bypass
 Name: A-Bypass
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
 Architecture: iphoneos-arm
-Description: Super Jailbreak detection bypass!
-Maintainer: Baw Appie <pp121324@gmail.com>
-Author: Baw Appie <pp121324@gmail.com>
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
 Section: Tweaks
 Version: 1.5.4
 Installed-Size: 848
-Filename: debs/com.rpgfarm.a-bypass_1.5.4_iphoneos-arm64.deb
-Size: 100688
+Filename: debs/com.rpgfarm.a-bypass_1.5.4_iphoneos-arm_iphoneos-arm.deb
+Size: 528
+
+Package: com.rpgfarm.a-bypass
+Name: A-Bypass
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Architecture: iphoneos-arm64
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
+Section: Tweaks
+Version: 1.5.4
+Installed-Size: 848
+Filename: debs/com.rpgfarm.a-bypass_1.5.4_iphoneos-arm_iphoneos-arm64.deb
+Size: 530
 
 Package: vn.gaoios.fps
 Name: FPS Color
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Báo lỗi
-Maintainer: GAOIOS
-Author: GAOIOS
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
 Section: Tweaks
 Homepage: https://IOSVIET.co
 Version: 0.1-2+debug
 Installed-Size: 144
-Filename: debs/fps iosviet.iphoneos-arm.deb
-Size: 12712
+Filename: debs/fps iosviet.iphoneos-arm64_iphoneos-arm64.deb
+Size: 12694
+
+Package: vn.gaoios.fps
+Name: FPS Color
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
+Section: Tweaks
+Homepage: https://IOSVIET.co
+Version: 0.1-2+debug
+Installed-Size: 144
+Filename: debs/fps iosviet.iphoneos-arm_iphoneos-arm.deb
+Size: 12694
+
+Package: vn.gaoios.fps
+Name: FPS Color
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
+Section: Tweaks
+Homepage: https://IOSVIET.co
+Version: 0.1-2+debug
+Installed-Size: 144
+Filename: debs/fps iosviet.iphoneos-arm_iphoneos-arm64.deb
+Size: 12694
 
 Package: pt2025.iosviet.co
 Name: [iOSViet.Co] Play Together Mod Menu
 Depends: mobilesubstrate
-Description: Play Together Mod Menu by iOSViet.Co!
-Maintainer: iOSViet.Co
-Author: iOSViet.Co
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
 Section: Tweaks
 Homepage: https://iosviet.co/
 Architecture: iphoneos-arm
 Version: 1.0
 Installed-Size: 44504
-Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm.deb
-Size: 6658950
+Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm64_iphoneos-arm64.deb
+Size: 522
 
 Package: pt2025.iosviet.co
 Name: [iOSViet.Co] Play Together Mod Menu
 Depends: mobilesubstrate
-Description: Play Together Mod Menu by iOSViet.Co!
-Maintainer: iOSViet.Co
-Author: iOSViet.Co
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
 Section: Tweaks
 Homepage: https://iosviet.co/
 Architecture: iphoneos-arm
 Version: 1.0
 Installed-Size: 44504
-Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm64.deb
-Size: 6658950
+Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm_iphoneos-arm.deb
+Size: 522
+
+Package: pt2025.iosviet.co
+Name: [iOSViet.Co] Play Together Mod Menu
+Depends: mobilesubstrate
+Description: Tweak/Tool by PHUONGIOSVIET
+Maintainer: PHUONGIOSVIET
+Author: PHUONGIOSVIET
+Section: Tweaks
+Homepage: https://iosviet.co/
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 44504
+Filename: debs/pt2025.iosviet.co_1.0_iphoneos-arm_iphoneos-arm64.deb
+Size: 522
 
